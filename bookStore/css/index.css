@@ -1,0 +1,19 @@
+body {
+  background-color: #f49842;
+}
+
+.btnsubmit, .btnsubmit:hover {
+  background-color: #f49842;
+  border: none;
+}
+
+.jumbotron {
+  width: 80%;
+  margin: auto;
+}
+
+.display-4 {
+
+  text-align: center;
+
+}
